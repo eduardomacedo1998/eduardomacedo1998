@@ -2,6 +2,8 @@
 
 Olá! Sou Eduardo Luan, um desenvolvedor apaixonado por JavaScript, PHP, Laravel e Vue.js. Bem-vindo ao meu perfil no GitHub! 🚀
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardoluan&theme=radical)
+
 Aqui você encontrará projetos incríveis que desenvolvi usando essas tecnologias. Sinta-se à vontade para explorar e contribuir!
 
 ## Tecnologias
@@ -11,10 +13,6 @@ Aqui você encontrará projetos incríveis que desenvolvi usando essas tecnologi
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-## Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoluan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoluan&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardoluan&theme=radical)
