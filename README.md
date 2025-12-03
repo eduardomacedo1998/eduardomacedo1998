@@ -1,4 +1,14 @@
-# Eduardo Luan
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animated {
+  animation: fadeIn 2s ease-out;
+}
+</style>
+
+<h1 class="animated">Eduardo Luan</h1>
 
 Olá! Sou Eduardo Luan, um desenvolvedor apaixonado por JavaScript, PHP, Laravel e Vue.js. Bem-vindo ao meu perfil no GitHub! 🚀
 
