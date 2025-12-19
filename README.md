@@ -8,7 +8,7 @@ Olá! Sou Eduardo Luan, um desenvolvedor apaixonado por JavaScript, PHP, Laravel
 ![Stars](https://img.shields.io/badge/Stars-50%2B-yellow?style=for-the-badge)
 ![Forks](https://img.shields.io/badge/Forks-10%2B-lightgrey?style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eduardoluan&theme=radical)
+
 
 Aqui você encontrará projetos incríveis que desenvolvi usando essas tecnologias. Sinta-se à vontade para explorar e contribuir!
 
