@@ -1,6 +1,6 @@
 # Eduardo Luan
 
-Olá! Sou Eduardo Luan, um desenvolvedor apaixonado por JavaScript, PHP, Laravel e Vue.js. Bem-vindo ao meu perfil no GitHub! 🚀
+Olá! Sou Eduardo Luan, um desenvolvedor apaixonado por JavaScript, PHP, Laravel e Vue.js. Bem-vindo ao meu perfil no GitHub!
 
 
 ![Commits](https://img.shields.io/badge/Commits-100%2B-blue?style=for-the-badge)
